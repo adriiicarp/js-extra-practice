@@ -11,6 +11,8 @@
 let happyNum = 1000;
 
 // YOUR CODE BELOW
-
+happyNum /= 100
+happyNum -=7
+happyNum +=2
 // Do not change the code below
 module.exports = { happyNum };

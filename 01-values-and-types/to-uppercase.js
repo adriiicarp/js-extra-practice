@@ -6,3 +6,7 @@ EX: "apples".toUpperCase() OUTPUT: "APPLES"
 */
 
 // YOUR CODE BELOW
+
+let myFavoriteTeam = 'river plate'
+
+console.log(myFavoriteTeam.toUpperCase())
